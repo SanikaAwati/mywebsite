@@ -1,0 +1,130 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    /* background-color: aquamarine;  */
+    background-image: url(/Image/food_4.jpeg);
+    background-size: cover;
+
+}
+
+  
+
+header{
+    width: 1024px;
+    height: 118px;
+    background-color: black;
+    text-align: center;
+}
+
+nav {
+    width: 1024px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.642);
+    text-align: center;
+    padding-top: 20px;
+
+
+    
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    padding-right: 50px;
+    padding-top: 30px;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+
+main{ 
+     width: 1024px ;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.279);
+ }
+
+footer{
+    width: 1024px;
+    /* height: 100px; */
+    background-color: rgba(255, 255, 255, 0.642);
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+
+  }
+
+  h1{
+    font-size: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 35px;
+  }
+
+  h2{
+    font-size: 25px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+
+  }
+
+  p{
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 3px;
+  }
+
+  a{
+    font-weight: bolder;
+    color: rgb(211, 226, 43);
+    
+  }
+
+  .map{
+    padding-bottom: 30px;
+  }
+
+  .mybutton {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    padding: 11px 25px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+
+  
+
+
+  
+
+ 
+
+
